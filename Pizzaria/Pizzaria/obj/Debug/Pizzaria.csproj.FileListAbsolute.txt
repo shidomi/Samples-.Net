@@ -1,0 +1,50 @@
+C:\Working\Pizzaria\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Working\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.dll
+C:\Working\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.pdb
+C:\Working\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.Data.dll
+C:\Working\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.Data.pdb
+C:\Working\Pizzaria\Pizzaria\Pizzaria\obj\Debug\Pizzaria.dll
+C:\Working\Pizzaria\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.dll
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.pdb
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.Data.dll
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\bin\Pizzaria.Data.pdb
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\obj\Debug\Pizzaria.dll
+C:\Users\Thiago\Desktop\Sistema Pizzaria\PROJETO\Pizzaria\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+F:\projetos visual studio\Pizzaria\Pizzaria\bin\Pizzaria.dll
+F:\projetos visual studio\Pizzaria\Pizzaria\bin\Pizzaria.pdb
+F:\projetos visual studio\Pizzaria\Pizzaria\bin\Pizzaria.Data.dll
+F:\projetos visual studio\Pizzaria\Pizzaria\bin\Pizzaria.Data.pdb
+F:\projetos visual studio\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+F:\projetos visual studio\Pizzaria\Pizzaria\obj\Debug\Pizzaria.dll
+F:\projetos visual studio\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.dll
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.pdb
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.Data.dll
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.Data.pdb
+F:\projetos_visual_studio\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+F:\projetos_visual_studio\Pizzaria\Pizzaria\obj\Debug\Pizzaria.dll
+F:\projetos_visual_studio\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\bin\Pizzaria.dll
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\bin\Pizzaria.pdb
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\bin\Pizzaria.Data.dll
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\bin\Pizzaria.Data.pdb
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\obj\Debug\Pizzaria.dll
+C:\Users\thiago.favaro\Documents\Visual Studio 2012\Projects\Trunk\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\bin\Pizzaria.dll
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\bin\Pizzaria.pdb
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\bin\Pizzaria.Data.dll
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\bin\Pizzaria.Data.pdb
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\obj\Debug\Pizzaria.dll
+C:\Users\Thiago\Documents\Visual Studio 2012\Projects\trunk\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\obj\Debug\Pizzaria.dll
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\bin\Pizzaria.dll.config
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\bin\Pizzaria.dll
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\bin\Pizzaria.pdb
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\bin\Pizzaria.Data.dll
+C:\Rafael\Working\_PIZZARIA\trunk\Pizzaria\bin\Pizzaria.Data.pdb

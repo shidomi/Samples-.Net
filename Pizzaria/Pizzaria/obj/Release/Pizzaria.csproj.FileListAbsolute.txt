@@ -1,0 +1,7 @@
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.dll
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.pdb
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.Data.dll
+F:\projetos_visual_studio\Pizzaria\Pizzaria\bin\Pizzaria.Data.pdb
+F:\projetos_visual_studio\Pizzaria\Pizzaria\obj\Release\Pizzaria.csprojResolveAssemblyReference.cache
+F:\projetos_visual_studio\Pizzaria\Pizzaria\obj\Release\Pizzaria.dll
+F:\projetos_visual_studio\Pizzaria\Pizzaria\obj\Release\Pizzaria.pdb

@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+<Itens>
+  <Massa>Massa Fina</Massa>
+  <Massa>Massa Media</Massa>
+  <Massa>Massa Pan</Massa>
+
+  <Recheio>Mussarela</Recheio>
+  <Recheio>Calabresa</Recheio>
+  <Recheio>Portuguesa</Recheio>
+  <Recheio>Peperone</Recheio>
+  <Recheio>Brocules</Recheio>
+  <Recheio>Palmito</Recheio>
+  <Recheio>Catupiry</Recheio>
+
+  <Bebida>Agua</Bebida>
+  <Bebida>Suco</Bebida>
+  <Bebida>Coca-Cola</Bebida>
+  <Bebida>Guarana</Bebida>
+
+  <Ingrediente>Sazon</Ingrediente>
+  <Ingrediente>Azeitona</Ingrediente>
+  <Ingrediente>Oregano</Ingrediente>
+
+  <Outro>Sabao</Outro>
+  <Outro>Esponja</Outro>
+</Itens>

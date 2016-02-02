@@ -1,0 +1,83 @@
+﻿
+-- Tabela pizz_Customers
+
+CREATE TABLE pizz_Customers
+(
+	ID int IDENTITY(1,1),
+	Telefone varchar(255) NOT NULL PRIMARY KEY,
+	Nome varchar(255) NOT NULL,
+	Endereco varchar(255) NOT NULL,
+	Bairro varchar(255),
+	Numero int NOT NULL,
+	Complemento varchar(255), 
+	Observacoes varchar(255),
+	DataCriacao datetime NOT NULL
+)
+
+-- Tabela pizz_Orders
+
+CREATE TABLE pizz_Orders
+(
+	ID int NOT NULL,
+	Cliente varchar(255) NOT NULL,
+	Telefone varchar(255) NOT NULL,
+	Pedido varchar(255) NOT NULL,
+	DataPedido datetime NOT NULL
+)
+
+-- Tabela pizz_Iventory
+
+CREATE TABLE pizz_Inventory
+(
+	ID int IDENTITY(1,1) PRIMARY KEY,
+	Categoria varchar(255) NOT NULL,
+	NomeFornecedor varchar(255) NOT NULL,
+	NumDoc varchar(255) NOT NULL,
+	NomeProduto varchar(255) NOT NULL,
+	Valor float NOT NULL,
+	Observacoes varchar(255),
+	DataCriacao datetime NOT NULL
+)
+
+
+-- Python
+﻿
+CREATE TABLE pizz_Customers
+(
+	ID INTEGER AUTO_INCREMENT PRIMARY KEY,
+	Telphone varchar(255) NOT NULL,
+	Name varchar(255) NOT NULL,
+	Address varchar(255) NOT NULL,
+	Neighborhood varchar(255),
+	Number int NOT NULL,
+	Complement varchar(255), 
+	Comments varchar(255),
+	CreatedOn datetime NOT NULL
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
