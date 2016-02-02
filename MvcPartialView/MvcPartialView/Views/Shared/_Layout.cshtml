@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>MVC</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/bootstrap-theme.min.css")
+    @Styles.Render("~/Content/bootstrap.min.css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header></header>
+    <div id="body">
+        @RenderSection("featured", required: false)
+        <section class="content-wrapper main-content clear-fix">
+            <br />
+            <div class="btn-group" role="group" aria-label="...">
+                <button type="button" class="btn btn-default" onclick="indexRedirect();">Index</button>
+                <button type="button" class="btn btn-default" onclick="cadastrarRedirect();">Cadastrar</button>
+                <button type="button" class="btn btn-default" onclick="buscarRedirect();">Buscar</button>
+            </div>
+            <br /><br />
+            @RenderBody()
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year - My ASP.NET MVC Application</p>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+    <script type="text/javascript">
+        function indexRedirect() {
+            window.location.href = '/Home/Index/';
+        }
+        function cadastrarRedirect() {
+            window.location.href = '/Home/Cadastrar/';
+        }
+        function buscarRedirect() {
+            window.location.href = '/Home/Buscar/';
+        }
+    </script>
+</body>
+</html>

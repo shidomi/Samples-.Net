@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title</h1>
+            </hgroup>
+        </div>
+    </section>
+}
+<script type="text/javascript" src="~/Scripts/jquery-1.11.3.min.js"></script>
+<script type="text/javascript">
+    function atualizarDefinicao() {
+        $.ajax({
+            type: 'GET',
+            url: '/Home/DefinicaoArquitetura',
+            dataType: 'html',
+            cache: false,
+            async: true,
+            success: function (data) {
+                $('#definicaoArquitetura').html(data);
+            }
+        });
+    }
+</script>
+<ol class="round">
+    <div class="panel panel-default">
+        <div class="panel-heading"><b>Index View</b></div>
+        <div class="panel-body">
+            <p>
+                @ViewBag.Description
+            </p>
+        </div>
+    </div>
+
+    <div id="definicaoArquitetura">
+        @{
+            Html.RenderPartial("DefinicaoArquitetura");
+        }
+    </div>
+
+    <input id="btnProximaDefinicao" type="button" value="Próxima Definição" onclick="atualizarDefinicao();" />
+</ol>
